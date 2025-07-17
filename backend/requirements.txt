@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+chromadb 
+youtube_transcript_api
+validators
+pytube
+requests
+beautifulsoup4
+pytubefix 
+openai
